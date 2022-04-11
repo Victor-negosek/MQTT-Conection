@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qP42pxk/gkCkAdWyB01XvLH9Tsm9TLaeqf2j6rnvaaBhlps0LIScpcdhJaMZJKobABuJFheTYP0zcYeRyMFj4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gnd-vn\\Desktop\\Mqtt\\MQTTPublisher\\MQTTPublisher\\MQTTPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gnd-vn\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

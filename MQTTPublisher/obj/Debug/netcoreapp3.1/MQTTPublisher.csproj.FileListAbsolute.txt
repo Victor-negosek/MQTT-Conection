@@ -1,0 +1,16 @@
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\bin\Debug\netcoreapp3.1\MQTTPublisher.exe
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\bin\Debug\netcoreapp3.1\MQTTPublisher.deps.json
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\bin\Debug\netcoreapp3.1\MQTTPublisher.runtimeconfig.json
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\bin\Debug\netcoreapp3.1\MQTTPublisher.runtimeconfig.dev.json
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\bin\Debug\netcoreapp3.1\MQTTPublisher.dll
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\bin\Debug\netcoreapp3.1\MQTTPublisher.pdb
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\obj\Debug\netcoreapp3.1\MQTTPublisher.csproj.AssemblyReference.cache
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\obj\Debug\netcoreapp3.1\MQTTPublisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\obj\Debug\netcoreapp3.1\MQTTPublisher.AssemblyInfoInputs.cache
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\obj\Debug\netcoreapp3.1\MQTTPublisher.AssemblyInfo.cs
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\obj\Debug\netcoreapp3.1\MQTTPublisher.csproj.CoreCompileInputs.cache
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\obj\Debug\netcoreapp3.1\MQTTPublisher.csproj.CopyComplete
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\obj\Debug\netcoreapp3.1\MQTTPublisher.dll
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\obj\Debug\netcoreapp3.1\MQTTPublisher.pdb
+C:\Users\gnd-vn\Desktop\Mqtt\MQTTPublisher\MQTTPublisher\obj\Debug\netcoreapp3.1\MQTTPublisher.genruntimeconfig.cache
